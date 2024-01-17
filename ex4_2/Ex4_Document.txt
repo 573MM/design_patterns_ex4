@@ -1,0 +1,17 @@
+Abstact Factory ใช้กับ class
+	- RegularCustomer
+	- DelinquentCustomer
+	- MountainCustomer
+	
+Singleton ใช้กับ class
+	- RegularCustomer
+	- MountainCustomer
+	- DelinquentCustomer
+
+Factory ใช้กับ class
+	- RegularMail
+	- MountainMail
+	- DelinquentMail
+	- MountainBrochure
+	- RegularBrochure
+	- DelinquentBrochure
